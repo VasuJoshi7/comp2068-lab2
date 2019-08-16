@@ -7,3 +7,4 @@ To run prject follow below steps : -
    ex. cd lab2
 3. run "npm install" command
 4. After step 4 "un "npm start" command.
+5. open "http://localhost:4200/
